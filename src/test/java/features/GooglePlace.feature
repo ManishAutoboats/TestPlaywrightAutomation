@@ -1,3 +1,4 @@
+@Reg
 Feature: Google place funtionlity
 
 Scenario: create new place on the google map
